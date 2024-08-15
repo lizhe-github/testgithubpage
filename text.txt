@@ -1,0 +1,637 @@
+<p></p><h4><strong>Approved Special Sessions</strong></h4><p></p>
+<style>
+table {
+width: 100%;
+border-collapse: collapse;
+}
+
+td {
+padding: 5px;
+}
+
+.organizer {
+display: flex;
+flex-direction: column;
+}
+
+.organizer span {
+margin-bottom: 5px;
+}
+
+.section-divider {
+border-top: 2px solid #000;
+margin-top: 20px;
+margin-bottom: 20px;
+}
+</style>
+
+<!-- SS01: Distributed and Intelligent Edge Computing (IEC) for Industrial IoT -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_Distributed and Intelligent Edge Computing (IEC) for Industrial IoT_V.docx" target="new"><strong class="red">SS01: Distributed and Intelligent Edge Computing (IEC) for Industrial IoT</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Mikael Gidlund</strong> (Professor, Mid Sweden University, <a href="mailto:mikael.gidlund@miun.se">mikael.gidlund@miun.se</a>),</span>
+<span><strong>Tao Zheng</strong> (Associate Professor, Beijing Jiaotong University, <a href="mailto:zhengtao@bjtu.edu.cn">zhengtao@bjtu.edu.cn</a>),</span>
+<span><strong>Kyi Thar</strong> (Assistant Professor, Mid Sweden University, <a href="mailto:kyi.thar@miun.se">kyi.thar@miun.se</a>)</span>
+</td>
+</tr>
+<tr>
+<td><strong>Sponsor:</strong></td>
+<td><strong>IEEE IES TC on Cloud and Wireless Systems for Industrial Applications</strong></td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS02: Zero-Touch Network and Service Management Towards Industry 5.0 -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_Zero-Touch Network and Service Management Towards Industry 5.0.docx" target="new"><strong class="red">SS02: Zero-Touch Network and Service Management Towards Industry 5.0</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Haoran Chi</strong> (Researcher, Universidade de Aveiro, <a href="haoran.chi@ua.pt">haoran.chi@ua.pt</a>),</span>
+<span><strong>Kim-Fung Tsang</strong> (Associate Professor, City University of Hong Kong, <a href="mailto:ee330015@cityu.edu.hk">ee330015@cityu.edu.hk</a>),</span>
+<span><strong>Haijun Zhang</strong> (Professor, Harbin Institute of Technology(Shenzhen), <a href="mailto:hjzhang@hit.edu.cn">hjzhang@hit.edu.cn</a>),</span>
+<span><strong>Wing-Kuen Ling</strong> (Professor, Guangdong University of Technology, <a href="mailto:yongquanling@gdut.edu.cn">yongquanling@gdut.edu.cn</a>)</span>
+</td>
+</tr>
+<tr>
+<td><strong>Sponsor:</strong></td>
+<td><strong>IEEE IES TC on Building Automation, Control and Management</strong></td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS03: Advanced Monitoring and Control for Cyber-Physical Systems -->
+<table>
+<tbody><tr>
+<td colspan="2"><strong class="red">SS03: Advanced Monitoring and Control for Cyber-Physical Systems</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Dong Zhao</strong> (Professor, Beihang University, <a href="mailto:dzhao@buaa.edu.cn">dzhao@buaa.edu.cn</a>),</span>
+<span><strong>Yueyang Li</strong> (Professor, University of Jinan, <a href="mailto:cse_liyy@ujn.edu.cn">cse_liyy@ujn.edu.cn</a>),</span>
+<span><strong>Zi-Peng Wang</strong> (Professor, Beijing University of Technology, <a href="mailto:zipengwang@bjut.edu.cn">zipengwang@bjut.edu.cn</a>)</span>
+</td>
+</tr>
+<tr>
+<td><strong>Sponsor:</strong></td>
+<td><strong>IEEE IES TC on Industrial Cyber-Physical Systems.</strong></td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS04: Intelligent New Energy Vehicle Technology -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_dongpeng.docx" target="new"><strong class="red">SS04: Intelligent New Energy Vehicle Technology</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Peng Dong</strong> (Professor, Beihang University, <a href="peng.dong@buaa.edu.cn">peng.dong@buaa.edu.cn</a>),</span>
+<span><strong>Yang Tian</strong> (Lecturer, Yanshan University, <a href="yang.tian@ysu.edu.cn">yang.tian@ysu.edu.cn</a>),</span>
+<span><strong>Junwei Zhao</strong> (N/A, Beihang University, <a href="buaazjw@buaa.edu.cn">buaazjw@buaa.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+
+<!-- SS05: Transportation and Energy System Coupling in Industrial Informatics -->
+<table>
+<tbody><tr>
+<td colspan="2"><strong class="red">SS05: Transportation and Energy System Coupling in Industrial Informatics</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Xiaolei Ma</strong> (Professor, Beihang University, <a href="xiaolei@buaa.edu.cn">xiaolei@buaa.edu.cn</a>),</span>
+<span><strong>Kun Gao</strong> (Professor, Chalmers University of Technology, <a href="mailto:gkun@chalmers.se">gkun@chalmers.se</a>),</span>
+<span><strong>Xiaohan Liu</strong> (N/A, Beihang University, <a href="mailto:xiaohan1994@buaa.edu.cn">xiaohan1994@buaa.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS06: Industry 4.0 in Agriculture -->
+<table>
+<tbody><tr>
+<td colspan="2"><strong class="red">SS06: Industry 4.0 in Agriculture</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Lei Shu</strong> (Professor, Nanjing Agricultural University/University of Lincoln, <a href="lei.shu@njau.edu.cn">lei.shu@njau.edu.cn</a>),</span>
+<span><strong>Yongliang Qiao</strong> (Research Fellow, University of Adelaide, <a href="mailto:yongliang.qiao@ieee.org">yongliang.qiao@ieee.org</a>),</span>
+<span><strong>Ye Liu</strong> (Postdoc Research Fellow, Macau University of Science and Technology, <a href="mailto:liuye@must.edu.mo">liuye@must.edu.mo</a>),</span>
+<span><strong>Kim Fung Tsang</strong> (Professor, Nanfang College, <a href="mailto:ee330015@cityu.edu.hk">ee330015@cityu.edu.hk</a>),</span>
+<span><strong>Gerhard P. Hancke</strong> (Professor, City University of Hong Kong, <a href="mailto:gp.hancke@cityu.edu.hk">gp.hancke@cityu.edu.hk</a>)</span>
+</td>
+</tr>
+<tr>
+<td><strong>Sponsor:</strong></td>
+<td><strong>IEEE IES TC on Cloud and Wireless Systems for Industrial Applications</strong></td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS07: Robust and Trustworthy Perception, Planning and Control of Connected and Autonomous Vehicles -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_Robust  and Trustworthy Perception, Planning and Control of Connected and Autonomous Vehicles.docx" target="new"><strong class="red">SS07: Robust and Trustworthy Perception, Planning and Control of Connected and Autonomous Vehicles</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Yang Li</strong> (Assistant Professor, Hunan University, <a href="lyxc56@gmail.com">lyxc56@gmail.com</a>),</span>
+<span><strong>Yougang Bian</strong> (Associate Professor, Hunan University, <a href="mailto:byg10@foxmail.com">byg10@foxmail.com</a>),</span>
+<span><strong>Ye Li</strong> (Assistant Professor, Central South University, <a href="mailto:yelicsu@csu.edu.cn">yelicsu@csu.edu.cn</a>),</span>
+<span><strong>Dachuan Li</strong> (Assistant Professor, Southern University of Science and Technology, <a href="mailto:dachuanli86@gmail.com">dachuanli86@gmail.com</a>)</span>
+<span><strong>Ming Gao</strong> (Research Associate Professor, Hunan University, <a href="mailto:gaoming@hnu.edu.cn">gaoming@hnu.edu.cn</a>),</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS08: Applications of Advanced Control Technology in Mechatronic Systems -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_CFP.docx" target="new"><strong class="red">SS08: Applications of Advanced Control Technology in Mechatronic Systems</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Yunfeng Hu</strong> (Professor, Jilin University, <a href="huyf@jlu.edu.cn">huyf@jlu.edu.cn</a>),</span>
+<span><strong>Xun Gong</strong> (Assistant Professor, Jilin University, <a href="mailto:gongxun@jlu.edu.cn">gongxun@jlu.edu.cn</a>),</span>
+<span><strong>Yao Sun</strong> (Associate Professor, Jilin University, <a href="mailto:syao@jlu.edu.cn">syao@jlu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS09: Artificial Intelligence in Complex System Diagnosis and Prognosis -->
+<table>
+<tbody><tr>
+<td colspan="2"><strong class="red">SS09: Artificial Intelligence in Complex System Diagnosis and Prognosis</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Yuchen Song</strong> (Associate Professor, Harbin Institute of Technology, <a href="songyuchen@hit.edu.cn">songyuchen@hit.edu.cn</a>),</span>
+<span><strong>Antonio Pietrosanto</strong> (Professor, University of Salerno, <a href="mailto:apietrosanto@unisa.it">apietrosanto@unisa.it</a>),</span>
+<span><strong>Marco Carratù</strong> (Assistant Professor, University of Salerno, <a href="mailto:mcarratu@unisa.it">mcarratu@unisa.it</a>)</span>
+</td>
+</tr>
+<tr>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS10: AI-Driven Green Industrial Innovations -->
+<table>
+<tbody><tr>
+<td colspan="2"><strong class="red">SS10: AI-Driven Green Industrial Innovations</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Hao Zhang</strong> (Assistant Professor, Wuhan University of Technology, <a href="14016@whut.edu.cn">14016@whut.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS11: Recent Trends in Cyber Physical Systems and Industrial Automation -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_ Recent Trends in Cyber Physical Systems and Industrial Automation.docx" target="new"><strong class="red">SS11: Recent Trends in Cyber Physical Systems and Industrial Automation</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Pranay Kumar Saha</strong> (Assistant Professor, Indian Institute of Technology - ISM Island, <a href="parnay@iitism.ac.in">parnay@iitism.ac.in</a>),</span>
+<span><strong>Nilotpal Chakraborty</strong> (Assistant Professor, Indian Institute of Information Technology Guwahati, <a href="nilotpal@iiitg.ac.in">nilotpal@iiitg.ac.in</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+
+<!-- SS12: NEAR ZERO  EMISSIONS POLLUTION CONTROL -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_suda.docx" target="new"><strong class="red">SS12: Near Zero  Emissions Pollution Control</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Pan Wang</strong> (Professor, Jiangsu University, <a href="wangpan@ujs.edu.cn">wangpan@ujs.edu.cn</a>),</span>
+<span><strong>Xin Wang</strong> (Associate professor
+, Beijing Institute of Technology, <a href="xin.wang@bit.edu.cn">xin.wang@bit.edu.cn</a>),</span>
+<span><strong>Yiran Zhang</strong> (Assistant Professor, Shanghai Jiaotong University, <a href="zhangyiran@sjtu.edu.cn">zhangyiran@sjtu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+
+<!-- SS13: Digital Twins and Their Industrial Applications -->
+<table>
+<tbody><tr>
+<td colspan="2"><strong class="red">SS13: Digital Twins and Their Industrial Applications</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Fang Fang</strong> (Professor, North China Electric Power University, <a href="ffang@ncepu.edu.cn">ffang@ncepu.edu.cn</a>),</span>
+<span><strong>Yuanye Chen</strong> (Lecturer, North China Electric Power University, <a href="yuanyechen@ncepu.edu.cn">yuanyechen@ncepu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS14: Intelligent Systems in Information and Control Technology  -->
+<table>
+<tbody><tr>
+<td colspan="2"><strong class="red">SS14: Intelligent Systems in Information and Control Technology</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Xue Zhang</strong> (Associate Researcher, Shanghai Jiaotong University, <a href="zhxue@sjtu.edu.cn">zhxue@sjtu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS15: Modeling, Intelligent Decision Making and Control of Electric Vehicles   -->
+<table>
+<tbody><tr>
+<td colspan="2"><strong class="red">SS15: Modeling, Intelligent Decision Making and Control of Electric Vehicles</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Xinhua Liu</strong> (Associate Professor, Beihang University, <a href="liuxinhua19@buaa.edu.cn">liuxinhua19@buaa.edu.cn</a>),</span>
+<span><strong>Bingtao Ren</strong> (Lecturer, Beihang University, <a href="renbt1706@buaa.edu.cn">renbt1706@buaa.edu.cn</a>),</span>
+<span><strong>Fan Zhou</strong> (Assistant Professor, Beihang University, <a href="fanzhou@buaa.edu.cn">fanzhou@buaa.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS16: Modeling, Intelligent Decision Making and Control of Electric Vehicles   -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_Key Techniques of the Operating Systems for the Intelligent Connected Vehicles.docx" target="new"><strong class="red">SS16: Key Techniques of the Operating Systems for the Intelligent Connected Vehicles</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Fan Zhou</strong> (Assistant Professor, Beihang University, <a href="fanzhou@buaa.edu.cn">fanzhou@buaa.edu.cn</a>),</span>
+<span><strong>Shichun Yang</strong> (Professor, Beihang University, <a href="yangshichun@buaa.edu.cn">yangshichun@buaa.edu.cn</a>),</span>
+<span><strong>Bingtao Ren</strong> (Lecturer, Beihang University, <a href="renbt1706@buaa.edu.cn">renbt1706@buaa.edu.cn</a>),</span>
+<span><strong>Xiaoyu Yan</strong> (Assistant Researcher, Beihang University, <a href=" renbt1706@buaa.edu.cn">yanxiaoyu@buaa.edu.cn </a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS17: Continual and Transfer Learning Techniques for Intelligent Connected Vehicles   -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_Continual and Transfer Learning Techniques for Intelligent Connected Vehicles.docx" target="new"><strong class="red">SS17: Continual and Transfer Learning Techniques for Intelligent Connected Vehicles</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Fan Zhou</strong> (Assistant Professor, Beihang University, <a href="fanzhou@buaa.edu.cn">fanzhou@buaa.edu.cn</a>),</span>
+<span><strong>Xiaoyu Yan</strong> (Lecturer, Beihang University, <a href="yanxiaoyu@buaa.edu.cn">yanxiaoyu@buaa.edu.cn</a>),</span>
+<span><strong>Bingtao Ren</strong> (Lecturer, Beihang University, <a href="renbt1706@buaa.edu.cn">renbt1706@buaa.edu.cn</a>),</span>
+<span><strong>Shichun Yang</strong> (Professor, Beihang University, <a href="yangshichun@buaa.edu.cn">yangshichun@buaa.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS18: Recent Developments in Sliding Mode Control and Its Industrial Applications   -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_Recent Developments in Sliding Mode Control and Its Industrial Applications.docx" target="new"><strong class="red">SS18: Recent Developments in Sliding Mode Control and Its Industrial Applications</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Shihong DING</strong> (Professor, Jiangsu University, <a href="dsh@ujs.edu.cn">dsh@ujs.edu.cn</a>),</span>
+<span><strong>Shihua LI</strong> (Professor, Southeast University, <a href=" lsh@seu.edu.cn"> lsh@seu.edu.cn</a>),</span>
+<span><strong>Jinwu Gao</strong> (Professor, Jilin University, <a href="gaojw@jlu.edu.cn">gaojw@jlu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS19: Research and Application of Non-smooth Control   -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_Research and Application of Non-smooth Control.pdf" target="new"><strong class="red">SS19: Research and Application of Non-smooth Control</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Haibo Du</strong> (Professor, Hefei University of Technology, <a href="haibo.du@hfut.edu.cn ">haibo.du@hfut.edu.cn</a>),</span>
+<span><strong>Junxiao Wang</strong> (Associate Professor, Zhejiang University of Technology, <a href="wjx2017@zjut.edu.cn"> wjx2017@zjut.edu.cn</a>),</span>
+<span><strong>Wenwu Zhu</strong> (Assistant Professor, Hefei University of Technology, <a href="zww@hfut.edu.cn ">zww@hfut.edu.cn</a>),</span>
+<span><strong>Shihua Li </strong> (Professor, Southeast University, <a href=" lsh@seu.edu.cn"> lsh@seu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS20: Vehicles with new configurations: developments in control and observation technologies   -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_Vehicles with new configurations.docx" target="new"><strong class="red">SS20: Vehicles with new configurations: developments in control and observation technologies</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Hui Jing</strong> (researcher, Guilin University of Electronic Technology, <a href="jinghui@guet.edu.cn ">jinghui@guet.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS21:Intelligent Control Technologies in Medical Robotics   -->
+<table>
+<tbody><tr>
+<td colspan="2"><a href="INDIN2024_files/ss_Intelligent Control Technologies in Medical Robotics.docx" target="new"><strong class="red">SS21: Intelligent Control Technologies in Medical Robotics</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Dan Zhang</strong> (Professor, Zhejiang University of Technology, <a href="danzhang@zjut.edu.cn ">danzhang@zjut.edu.cn</a>),</span>
+<span><strong>Xuming Zhang</strong> (Professor, Huazhong University of Science and Technology, <a href="zxmboshi@hust.edu.cn ">zxmboshi@hust.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS22: Unmanned transportation technologies for special vehicles in industrial scenarios   -->
+<table>
+<tbody><tr>
+<td colspan="2"><strong class="red">SS22: Unmanned transportation technologies for special vehicles in industrial scenarios</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Peng Chen</strong> (Associate Professor, Beihang University, <a href="&nbsp;cpeng@buaa.edu.cn ">&nbsp;cpeng@buaa.edu.cn</a>),</span>
+<span><strong>Guizhen Yu</strong> (Professor, Beihang University, <a href="yugz@buaa.edu.cn"> yugz@buaa.edu.cn</a>),</span>
+<span><strong>Bin Zhou</strong> (Lecturer, Beihang University, <a href="binzhou@buaa.edu.cn ">binzhou@buaa.edu.cn</a>),</span>
+<span><strong>Zhangyu Wang</strong> (Lecturer, Beihang University, <a href="zywang@buaa.edu.cn ">zywang@buaa.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+
+<!-- SS23: Advanced Control Algorithms and Applications for Intelligent Electrified Vehicles   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"> <a href="INDIN2024_files/ss_Advanced Control Algorithms and Applications for Intelligent Electrified Vehicles.docx" target="new"> <strong class="red">SS23: Advanced Control Algorithms and Applications for Intelligent Electrified Vehicles</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Chao Yang</strong> (Associate Professor, Beijing Institute of Technology, <a href="cyang@bit.edu.cn ">&nbsp;cyang@bit.edu.cn</a>),</span>
+<span><strong>Yahui Zhang </strong> (Associate Professor, Yanshan University, <a href="zhangyahui@ysu.edu.cn"> zhangyahui@ysu.edu.cn</a>),</span>
+<span><strong>Tianqi Qie</strong> (N/A, Beijing Institute of Technology, <a href=" tianqi_qie@bit.edu.cn"> tianqi_qie@bit.edu.cn</a>),</span>
+<span><strong>Weida Wang </strong> (Associate Professor, Beijing Institute of Technology, <a href="wangwd0430@bit.edu.cn ">wangwd0430@bit.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS24: AI-empowered Decision Support System in Industrial 4.0   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"> <a href="INDIN2024_files/ss_AI-empowered Decision Support System in Industrial 4.0.pdf" target="new"> <strong class="red">SS24: AI-empowered Decision Support System in Industrial 4.0</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Hao Wang</strong> (Professor, Xidian University, <a href="haow@ieee.org ">&nbsp;haow@ieee.org</a>),</span>
+<span><strong>Haiyang Zhang</strong> (Assistant professor, Xi'an Jiaotong-Liverpool University, <a href="Haiyang.Zhang@xjtlu.edu.cn"> Haiyang.Zhang@xjtlu.edu.cn</a>),</span>
+<span><strong>Weihua Liu</strong> (N/A, China Mobile Research Institute, <a href="liuweihuayjy@chinamobile.com "> liuweihuayjy@chinamobile.com</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS25: Advanced Decision-Making and Control inAerospace Autonomous Systems   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"> <strong class="red">SS25: Advanced Decision-Making and Control inAerospace Autonomous Systems</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Zeyang Yin</strong> (Assistant Professor, Central South University, <a href="yinzeyang@csu.edu.cn">&nbsp;yinzeyang@csu.edu.cn</a>),</span>
+<span><strong>Kenan Yong </strong> (Associate Professor, Naniing University of Aeronautics and Astronautics, <a href="yongkenan@nuaa.edu.cn"> yongkenan@nuaa.edu.cn</a>),</span>
+<span><strong>Zhenhua Pan</strong> (Assistant Professor, Beiiing Institute of Technology, <a href="zhenhuapan@bit.edu.cn "> zhenhuapan@bit.edu.cn </a>),</span>
+<span><strong>Xiaodong Shao</strong> (Associate Professor, Beihang University, <a href="xdshao_sasee@buaa.edu.cn"> xdshao_sasee@buaa.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS26:Model Predictive Control for Cyber-Physical Systems  -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><a href="INDIN2024_files/ss_MPC_for cyber_physical_system.docx" <strong="" class="red">SS26: Model Predictive Control for Cyber-Physical Systems</a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Ning He</strong> (Professor, Xi'an University of Architecture and Technology, <a href="hening@xauat.edu.cn">&nbsp;hening@xauat.edu.cn</a>),</span>
+<span><strong>Huiping Li </strong> (Professor, Northwestern Polytechnical University, <a href="lihuiping@nwpu.edu.cn"> lihuiping@nwpu.edu.cn</a>),</span>
+<span><strong>Hongtao Liang</strong> (Associate Professor, Shaanxi Normal University, <a href="lht@snnu.edu.cn"> lht@snnu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS27:Safety-oriented Risk Assessment and Advanced Control for intelligent Connected Vehicles  -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><a href="INDIN2024_files/ss_MPC_for cyber_physical_system.docx" <strong="" class="red">SS27: Safety-oriented Risk Assessment and Advanced Control for intelligent Connected Vehicles</a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Yan Wang</strong> (Research Associate, Hong Kong Polytechnical University, <a href="yanjack.wang@polyu.edu.hk">&nbsp;yanjack.wang@polyu.edu.hk</a>),</span>
+<span><strong>Chengyue Jiang</strong> (Professor, Chongqing University of Technology, <a href="jiangchengyue@cqut.edu.cn"> jiangchengyue@cqut.edu.cn</a>),</span>
+<span><strong>Liwei Xu</strong> (Assistant Professor, Southeast University, <a href="liw_xu@seu.edu.cn"> liw_xu@seu.edu.cn</a>)</span>
+<span><strong>Hui Zhang</strong> (Assistant Professor, Beijing Jiaotong University, <a href="huizhang1@bjtu.edu.cn"> huizhang1@bjtu.edu.cn</a>),</span>
+<span><strong>Yongjun Yan </strong> (Assistant Professor, Nanjing University of Science and Technology, <a href="yannis.yyj@gmail.com">yannis.yyj@gmail.com</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS28:Extend Abstract   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><strong class="red">SS28: Extend Abstract(1 page)</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Hui Zhang</strong> (Professor, Beihang University, <a href="huizhang285@gmail.com">&nbsp;huizhang285@gmail.com</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS29:Gas Turbine   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><strong class="red">SS29: Carbon Neutral Fuel and Emission, Innovative Cycle, More Intelligent Gas Turbine Engine</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Chuang Gao</strong> (Professor,Shanghai Advanced Research Institute, Chinese Academy of Sciences, <a href="gaoc@sari.ac.cn">&nbsp;gaoc@sari.ac.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS30:Gas Turbine   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><strong class="red">SS30: Control, Planning, and Fault Diagnosis of Autonomous Systems</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Shuai Yan</strong> (Research Fellow,Beijing Institute of Technology, <a href="shuaiyan@bit.edu.cn">&nbsp;shuaiyan@bit.edu.cn</a>)</span>
+<span><strong>Jue Wang</strong> (Research Associate,Ningbo Institute of Intelligent Equipment Technology, <a href="wangjue10@foxmail.com">&nbsp;wangjue10@foxmail.com</a>)</span>
+<span><strong>Yulin Si</strong> (Associate Professor,Zhejiang University, , <a href="yulinsi@zju.edu.cn">&nbsp;yulinsi@zju.edu.cn</a>)</span>
+<span><strong>Chuanke Zhang</strong> (Professor,China University of Geosciences, <a href="ckzhang@cug.edu.cn">&nbsp;ckzhang@cug.edu.cn</a>)</span>
+<span><strong>Weichao Sun</strong> (Professor,Harbin Institute of Technology, <a href="w.sun@hit.edu.cn">&nbsp;w.sun@hit.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS31:Human Factors in Decision-Making, Planning and Control Technologies of Intelligent Vehicles   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><a href="INDIN2024_files/ss_Human Factors in Decision-Making, Planning and Control Technologies of Intelligent Vehicles.docx" <="" a=""><strong class="red">SS31: Human Factors in Decision-Making, Planning and Control Technologies of Intelligent Vehicles</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Guodong Yin</strong> (Professor,Southeast University, <a href="ygd@seu.edu.cn">&nbsp;ygd@seu.edu.cn</a>)</span>
+<span><strong>Jinxiang Wang</strong> (Associate Professor,Southeast University, <a href="wangjx@seu.edu.cn">&nbsp;wangjx@seu.edu.cn</a>)</span>
+<span><strong>Hongliang Wang</strong> (Associate Professor,Nanjing University of Science and Technology, <a href="whl@njust.edu.cn">&nbsp;whl@njust.edu.cn</a>)</span>
+
+<span><strong>Yongjun Yan</strong> (Assistant Professor,Nanjing University of Science and Technology, <a href="yanyj@njust.edu.cn">&nbsp;yanyj@njust.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS32:Intelligent Control and Learning  in Humanoid Robotics      -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><strong class="red">SS32: Intelligent Control and Learning  in Humanoid Robotics</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Wutao Yin</strong> (Associate Professor,Northwestern Polytechnical University, <a href="wutao.yin@nwpu.edu.cn">&nbsp;wutao.yin@nwpu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS33:modeling and control of fuel cell systems   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><strong class="red">SS33: Modeling and Control of Fuel Cell Systems</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Zhou Jiaming</strong> (Associate Professor, Weifang University of Science and Technology, <a href="zhoujiaming@wfust.edu.cn">&nbsp;zhoujiaming@wfust.edu.cn</a>)</span>
+<span><strong>Hu Donghai</strong> (Associate Professor, Jiangsu University, <a href="hudonghai@ujs.edu.cn">hudonghai@ujs.edu.cn</a>)</span>
+<span><strong>Yi Fengyan</strong> (Professor, Shandong Jiaotong University, <a href="yify@sdjtu.edu.cn">yify@sdjtu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS34:Safe Planning and Control for Autonomous Driving Using Artificial Intelligence Technology   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><a href="INDIN2024_files/ss_Safe Planning and Control for Autonomous Driving Using Artificial Intelligence Technology.docx" <="" a=""><strong class="red">SS34: Safe Planning and Control for Autonomous Driving Using Artificial Intelligence Technology</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Mingyu Cai</strong> (Assistant Professor,University of California, <a href="mingyu.cai@ucr.edu">&nbsp;mingyu.cai@ucr.edu</a>)</span>
+<span><strong>Shu Liu</strong> (AI Scientist,Bosch Center for Artificial Intelligence (BCAI), <a href="shu.liu2@cn.bosch.com">&nbsp;shu.liu2@cn.bosch.com</a>)</span>
+<span><strong>Jinhao Liang</strong> (Research Fellow,National University of Singapore, <a href="jh.liang@nus.edu.sg">&nbsp;jh.liang@nus.edu.sg</a>)</span>
+
+<span><strong>Yanbo Lu</strong> (Research Fellow,Tsinghua University, <a href="luyb@mail.tsinghua.edu.cn">luyb@mail.tsinghua.edu.cn</a>)</span>
+<span><strong>Faan Wang</strong> (Assistant Professor,Kunming University of Science and Technology, <a href="wfa@kust.edu.cn">&nbsp;wfa@kust.edu.cn</a>)</span>
+<span><strong>Zhenwu Fang</strong> (Research Assistant,National University of Singapore, <a href="zhenwu.fang@u.nus.edu">&nbsp;zhenwu.fang@u.nus.edu</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+
+<!-- SS35:Uncertainty Quantification and Mitigation for Sensing, Planning and Control of Automated Driving   -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><a href="INDIN2024_files/ss_Uncertainty Quantification and Mitigation for Sensing, Planning and Control of Automated Driving.docx" <="" a=""><strong class="red">SS35: Uncertainty Quantification and Mitigation for Sensing, Planning and Control of Automated Driving</strong></a></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Fei Ding</strong> (Associate Professor,Hunan University, <a href="dingfei@hnu.edu.cn">dingfei@hnu.edu.cn</a>)</span>
+<span><strong>Yafei Wang</strong> (Associate Professor,Shanghai Jiao Tong University, <a href="wyfjlu@sjtu.edu.cn">&nbsp;wyfjlu@sjtu.edu.cn</a>)</span>
+<span><strong>Junguo Lu</strong> (Professor,Shanghai Jiao Tong University, <a href="jglu@sjtu.edu.cn">jglu@sjtu.edu.cn</a>)</span>
+
+<span><strong>Mingyu Wu</strong> (Assistant Researcher,Shanghai Jiao Tong University, <a href="wmy_marvin@sjtu.edu.cn">wmy_marvin@sjtu.edu.cn</a>)</span>
+
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<!-- SS36:Progress in thermal management technologies      -->
+<table>
+<tbody><tr>
+
+<td colspan="2"><strong class="red">SS36: Progress in thermal management technologies</strong></td>
+</tr>
+<tr>
+<td><strong>Organizers:</strong></td>
+<td class="organizer">
+<span><strong>Ma Ting</strong> (Professor,Xi'an Jiaotong University, <a href="mating715@mail.xjtu.edu.cn">&nbsp;mating715@mail.xjtu.edu.cn</a>)</span>
+</td>
+</tr>
+</tbody></table>
+<div class="section-divider"></div>
+<p><br>
+    <br>
+  </p>
